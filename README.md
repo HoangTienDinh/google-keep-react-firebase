@@ -69,5 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 # Things I've added
-- start of create-react-app, npx create-react-app <name of app>
-- npm install firebase to connect DB
+- start of create-react-app, npx create-react-app 'name of app'd
+- npm install firebase to connect DB  https://firebase.google.com/docs/web/setup?authuser=0#node.js-apps
+- find config information in your </> webap in firebase, under the Firebase SDK snippet options
+- for react apps and .env files, make sure they start with REACT_APP_
