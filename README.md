@@ -73,3 +73,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 - npm install firebase to connect DB  https://firebase.google.com/docs/web/setup?authuser=0#node.js-apps
 - find config information in your </> webap in firebase, under the Firebase SDK snippet options
 - for react apps and .env files, make sure they start with REACT_APP_
+- even if i try consol.log() process.env in firebase/config.js they will show up as undefined.  Meaning it will stay hidden.
+-
