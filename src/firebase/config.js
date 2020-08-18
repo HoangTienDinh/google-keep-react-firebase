@@ -13,6 +13,7 @@ const firebaseConfig = {
     measurementId: process.env.REACT_APP_MEASUREMENT_ID,
   };
 
+// start and access firebase with the firebaseConfig (the keys)
 firebase.initializeApp(firebaseConfig)
 
 const projectFirestore = firebase.firestore();
